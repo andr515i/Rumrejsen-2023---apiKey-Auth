@@ -1,0 +1,6 @@
+@Rumrejsen_2023_HostAddress = http://localhost:5109
+
+GET {{Rumrejsen_2023_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
